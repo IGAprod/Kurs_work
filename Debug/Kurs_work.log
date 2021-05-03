@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: M_PI: изменение макроопределения
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(2): message : см. предыдущее определение "M_PI"
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(247,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(273,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(316,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(389,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(400,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(405,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(452,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(458,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(462,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(463,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(468,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(503,27): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(504,23): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(504,52): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(510,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(515,40): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(518,47): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  Kurs_work.vcxproj -> C:\Users\IgorKinev\source\repos\Kurs_work\Debug\Kurs_work.exe

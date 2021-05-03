@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: M_PI: изменение макроопределения
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(2): message : см. предыдущее определение "M_PI"
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(543,67): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(543,64): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+C:\Users\IgorKinev\source\repos\Kurs_work\Kurs_work\Source.cpp(664,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Kurs_work.vcxproj -> C:\Users\IgorKinev\source\repos\Kurs_work\x64\Debug\Kurs_work.exe
